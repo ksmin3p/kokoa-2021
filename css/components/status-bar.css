@@ -1,3 +1,12 @@
+.alt-header {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  top: 0;
+  padding: 5px 3px;
+  width: 100%;
+}
 .status-bar {
   position: fixed;
   display: flex;
